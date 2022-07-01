@@ -21,7 +21,7 @@ public class select {
 	        }  
 	    }  
 	 public static void selectactormovie(){
-		 	System.out.println("Select MOVIENAME By Actor Kamala Hasan");
+		 	System.out.println("Select MOVIENAME By Actor Karthi");
 	        String sql = "SELECT moviename FROM movies WHERE leadactor LIKE'%Karthi%'"; 
 	          
 	        try {  
